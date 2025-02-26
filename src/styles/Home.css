@@ -1,0 +1,43 @@
+.home-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #f4f4f4;
+}
+  
+h2 {
+    font-size: 32px;
+    font-family: "Georgia", serif;
+    color: #333;
+}
+  
+p {
+    font-size: 20px;
+    font-family: "Arial", sans-serif;
+    color: #666;
+    margin-bottom: 20px;
+}
+  
+.big-cat-image {
+    width: 80%;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.home {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+  
+.home-slider {
+    width: 100%;
+    height: 100%;
+}
+  
+.home-image {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+  
